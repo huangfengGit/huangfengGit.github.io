@@ -39,7 +39,6 @@
 
   <link rel="stylesheet" type="text/css" href="style-mobile.6e9cd.css"/>
   <link rel="icon" href="favicon.8de18.ico"/>
-  <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </head>
 <body>
   <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas>
@@ -49,9 +48,9 @@
     </div>
   </div>
 
-<script src="src/settings.7ab5c.js" charset="utf-8"></script>
+<script src="src/settings.bf7a1.js" charset="utf-8"></script>
 
-<script src="main.a4ed1.js" charset="utf-8"></script>
+<script src="main.aca19.js" charset="utf-8"></script>
 
 <script type="text/javascript">
 (function () {
@@ -77,7 +76,7 @@
       document.body.appendChild(domScript);
     }
 
-    loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.af881.js', function () {
+    loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.da46a.js', function () {
       if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
         loadScript(debug ? 'physics.js' : 'physics-min.js', window.boot);
       }
@@ -85,7 +84,6 @@
         window.boot();
       }
     });
-    Telegram.WebApp.expand();
 })();
 </script>
 </body>
