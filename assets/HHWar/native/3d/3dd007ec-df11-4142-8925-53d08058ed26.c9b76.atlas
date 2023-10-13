@@ -1,0 +1,62 @@
+
+wuxing.png
+size: 121, 53
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+wx_bs
+  rotate: false
+  xy: 54, 4
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+wx_wx
+  rotate: false
+  xy: 2, 2
+  size: 50, 49
+  orig: 52, 51
+  offset: 1, 1
+  index: -1
+wx_y1
+  rotate: false
+  xy: 104, 8
+  size: 11, 11
+  orig: 15, 15
+  offset: 2, 2
+  index: -1
+wx_z3
+  rotate: false
+  xy: 104, 8
+  size: 11, 11
+  orig: 15, 15
+  offset: 2, 2
+  index: -1
+wx_y2
+  rotate: false
+  xy: 104, 21
+  size: 13, 13
+  orig: 16, 16
+  offset: 2, 1
+  index: -1
+wx_z2
+  rotate: false
+  xy: 104, 21
+  size: 13, 13
+  orig: 16, 16
+  offset: 2, 1
+  index: -1
+wx_y3
+  rotate: false
+  xy: 104, 36
+  size: 15, 15
+  orig: 19, 18
+  offset: 2, 1
+  index: -1
+wx_z1
+  rotate: false
+  xy: 104, 36
+  size: 15, 15
+  orig: 19, 18
+  offset: 2, 1
+  index: -1

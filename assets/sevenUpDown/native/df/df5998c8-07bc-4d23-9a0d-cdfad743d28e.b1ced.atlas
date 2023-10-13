@@ -1,0 +1,125 @@
+
+touzhong.png
+size: 1164, 560
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: false
+  xy: 320, 70
+  size: 116, 122
+  orig: 119, 125
+  offset: 1, 2
+  index: -1
+2
+  rotate: false
+  xy: 438, 70
+  size: 116, 122
+  orig: 119, 125
+  offset: 1, 2
+  index: -1
+3
+  rotate: false
+  xy: 556, 143
+  size: 116, 122
+  orig: 119, 125
+  offset: 1, 2
+  index: -1
+4
+  rotate: false
+  xy: 674, 143
+  size: 116, 122
+  orig: 119, 125
+  offset: 1, 2
+  index: -1
+5
+  rotate: true
+  xy: 556, 25
+  size: 116, 122
+  orig: 119, 125
+  offset: 1, 2
+  index: -1
+6
+  rotate: false
+  xy: 680, 19
+  size: 116, 122
+  orig: 119, 125
+  offset: 1, 2
+  index: -1
+touzhong_1
+  rotate: false
+  xy: 853, 250
+  size: 303, 147
+  orig: 305, 149
+  offset: 1, 1
+  index: -1
+touzhong_2
+  rotate: false
+  xy: 2, 194
+  size: 528, 364
+  orig: 538, 368
+  offset: 5, 4
+  index: -1
+touzhong_3
+  rotate: false
+  xy: 853, 399
+  size: 297, 159
+  orig: 302, 160
+  offset: 1, 0
+  index: -1
+touzhong_4
+  rotate: false
+  xy: 532, 267
+  size: 319, 291
+  orig: 330, 314
+  offset: 7, 23
+  index: -1
+touzhong_5
+  rotate: false
+  xy: 2, 45
+  size: 316, 147
+  orig: 330, 314
+  offset: 9, 0
+  index: -1
+touzi_pifu/1
+  rotate: false
+  xy: 798, 126
+  size: 116, 122
+  orig: 119, 125
+  offset: 1, 2
+  index: -1
+touzi_pifu/2
+  rotate: false
+  xy: 916, 126
+  size: 116, 122
+  orig: 119, 125
+  offset: 1, 2
+  index: -1
+touzi_pifu/3
+  rotate: false
+  xy: 1034, 126
+  size: 116, 122
+  orig: 119, 125
+  offset: 1, 2
+  index: -1
+touzi_pifu/4
+  rotate: true
+  xy: 798, 8
+  size: 116, 122
+  orig: 119, 125
+  offset: 1, 2
+  index: -1
+touzi_pifu/5
+  rotate: true
+  xy: 922, 8
+  size: 116, 122
+  orig: 119, 125
+  offset: 1, 2
+  index: -1
+touzi_pifu/6
+  rotate: false
+  xy: 1046, 2
+  size: 116, 122
+  orig: 119, 125
+  offset: 1, 2
+  index: -1

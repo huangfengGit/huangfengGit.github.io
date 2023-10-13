@@ -1,0 +1,62 @@
+
+Chaal.png
+size: 464, 127
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Blind_1
+  rotate: false
+  xy: 229, 2
+  size: 116, 39
+  orig: 118, 41
+  offset: 1, 1
+  index: -1
+Blind_2
+  rotate: true
+  xy: 356, 9
+  size: 116, 39
+  orig: 118, 41
+  offset: 1, 1
+  index: -1
+Blindx2_1
+  rotate: false
+  xy: 397, 86
+  size: 65, 39
+  orig: 66, 39
+  offset: 1, 0
+  index: -1
+Chaal_1
+  rotate: false
+  xy: 229, 85
+  size: 125, 40
+  orig: 127, 42
+  offset: 0, 0
+  index: -1
+Chaal_2
+  rotate: false
+  xy: 229, 43
+  size: 125, 40
+  orig: 127, 42
+  offset: 1, 1
+  index: -1
+Chaal_3
+  rotate: false
+  xy: 2, 11
+  size: 225, 114
+  orig: 261, 139
+  offset: 18, 8
+  index: -1
+Chaalx1
+  rotate: false
+  xy: 397, 46
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+Chaalx2
+  rotate: false
+  xy: 397, 6
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1

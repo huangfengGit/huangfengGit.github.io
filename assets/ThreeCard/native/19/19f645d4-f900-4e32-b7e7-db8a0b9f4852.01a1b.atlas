@@ -1,0 +1,27 @@
+
+sideshow.png
+size: 200, 244
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+sideshow_1
+  rotate: true
+  xy: 2, 2
+  size: 240, 40
+  orig: 240, 40
+  offset: 0, 0
+  index: -1
+sideshow_2
+  rotate: true
+  xy: 44, 4
+  size: 238, 38
+  orig: 238, 38
+  offset: 0, 0
+  index: -1
+sideshow_3
+  rotate: true
+  xy: 84, 17
+  size: 225, 114
+  orig: 261, 139
+  offset: 18, 8
+  index: -1

@@ -1,0 +1,13 @@
+
+spine_ui_guanghuan.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_ui_guanghuan=1
+  rotate: false
+  xy: 2, 2
+  size: 121, 121
+  orig: 130, 130
+  offset: 4, 5
+  index: -1

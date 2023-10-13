@@ -1,0 +1,62 @@
+
+spine_zues_tanchuang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_zues_tanchuang=0000
+  rotate: false
+  xy: 2, 188
+  size: 636, 301
+  orig: 636, 301
+  offset: 0, 0
+  index: -1
+spine_zues_tanchuang=14_1
+  rotate: false
+  xy: 640, 251
+  size: 245, 238
+  orig: 250, 250
+  offset: 1, 9
+  index: -1
+spine_zues_tanchuang=a1
+  rotate: false
+  xy: 547, 22
+  size: 352, 116
+  orig: 354, 116
+  offset: 1, 0
+  index: -1
+spine_zues_tanchuang=a2
+  rotate: true
+  xy: 887, 155
+  size: 334, 126
+  orig: 336, 127
+  offset: 1, 1
+  index: -1
+spine_zues_tanchuang=a3
+  rotate: false
+  xy: 640, 140
+  size: 227, 109
+  orig: 229, 110
+  offset: 1, 1
+  index: -1
+spine_zues_tanchuang=a4
+  rotate: false
+  xy: 2, 83
+  size: 543, 103
+  orig: 548, 106
+  offset: 3, 0
+  index: -1
+spine_zues_tanchuang=effect_hengguang_10
+  rotate: false
+  xy: 2, 2
+  size: 256, 79
+  orig: 285, 105
+  offset: 17, 8
+  index: -1
+spine_zues_tanchuang=par_07
+  rotate: false
+  xy: 260, 39
+  size: 51, 42
+  orig: 63, 62
+  offset: 6, 8
+  index: -1

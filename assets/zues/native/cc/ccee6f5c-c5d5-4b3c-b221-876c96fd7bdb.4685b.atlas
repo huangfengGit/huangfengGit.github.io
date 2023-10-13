@@ -1,0 +1,125 @@
+
+spine_zues_chess_change_gold.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_zues_chess_change=gold_list_04
+  rotate: false
+  xy: 212, 639
+  size: 198, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=gold_list_05
+  rotate: false
+  xy: 2, 619
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=gold_list_06
+  rotate: false
+  xy: 212, 810
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=gold_list_07
+  rotate: false
+  xy: 2, 448
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=gold_list_08
+  rotate: false
+  xy: 413, 810
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=gold_list_09
+  rotate: false
+  xy: 2, 277
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=gold_list_10
+  rotate: false
+  xy: 614, 810
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=gold_list_11
+  rotate: false
+  xy: 2, 106
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=gold_list_12
+  rotate: false
+  xy: 815, 810
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=gold_list_13
+  rotate: false
+  xy: 412, 639
+  size: 198, 169
+  orig: 199, 169
+  offset: 1, 0
+  index: -1
+spine_zues_chess_change=gold_list_14
+  rotate: false
+  xy: 612, 639
+  size: 198, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=gold_list_15
+  rotate: false
+  xy: 812, 639
+  size: 198, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=gold_list_16
+  rotate: false
+  xy: 203, 468
+  size: 198, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=gold_part_a_1
+  rotate: false
+  xy: 2, 2
+  size: 129, 102
+  orig: 129, 102
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=gold_part_a_2
+  rotate: false
+  xy: 403, 535
+  size: 129, 102
+  orig: 129, 102
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=gold_part_b_1
+  rotate: false
+  xy: 2, 790
+  size: 208, 189
+  orig: 212, 192
+  offset: 2, 2
+  index: -1
+spine_zues_chess_change=gold_part_b_2
+  rotate: false
+  xy: 203, 277
+  size: 154, 189
+  orig: 157, 193
+  offset: 1, 1
+  index: -1

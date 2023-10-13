@@ -1,0 +1,125 @@
+
+spine_zues_chess_change_blue.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_zues_chess_change=blue_list_04
+  rotate: false
+  xy: 2, 2
+  size: 198, 169
+  orig: 199, 169
+  offset: 1, 0
+  index: -1
+spine_zues_chess_change=blue_list_05
+  rotate: false
+  xy: 236, 835
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=blue_list_06
+  rotate: true
+  xy: 2, 374
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=blue_list_07
+  rotate: false
+  xy: 437, 835
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=blue_list_08
+  rotate: true
+  xy: 2, 173
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=blue_list_09
+  rotate: false
+  xy: 638, 835
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=blue_list_10
+  rotate: true
+  xy: 839, 805
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=blue_list_11
+  rotate: true
+  xy: 184, 590
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=blue_list_12
+  rotate: false
+  xy: 355, 664
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=blue_list_13
+  rotate: false
+  xy: 556, 664
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=blue_list_14
+  rotate: false
+  xy: 555, 493
+  size: 197, 169
+  orig: 199, 169
+  offset: 2, 0
+  index: -1
+spine_zues_chess_change=blue_list_15
+  rotate: false
+  xy: 355, 493
+  size: 198, 169
+  orig: 199, 169
+  offset: 1, 0
+  index: -1
+spine_zues_chess_change=blue_list_16
+  rotate: false
+  xy: 757, 635
+  size: 195, 168
+  orig: 199, 169
+  offset: 3, 0
+  index: -1
+spine_zues_chess_change=blue_part_a_1
+  rotate: false
+  xy: 754, 530
+  size: 130, 103
+  orig: 130, 103
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=blue_part_a_2
+  rotate: false
+  xy: 886, 530
+  size: 130, 103
+  orig: 130, 103
+  offset: 0, 0
+  index: -1
+spine_zues_chess_change=blue_part_b_1
+  rotate: false
+  xy: 2, 791
+  size: 232, 213
+  orig: 236, 216
+  offset: 3, 0
+  index: -1
+spine_zues_chess_change=blue_part_b_2
+  rotate: false
+  xy: 2, 575
+  size: 180, 214
+  orig: 186, 219
+  offset: 3, 2
+  index: -1

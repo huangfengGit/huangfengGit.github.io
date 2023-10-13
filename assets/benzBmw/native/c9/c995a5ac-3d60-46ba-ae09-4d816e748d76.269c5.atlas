@@ -1,0 +1,258 @@
+
+car_ske.png
+size: 2048, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+guang_03
+  rotate: true
+  xy: 86, 6
+  size: 73, 65
+  orig: 86, 78
+  offset: 8, 7
+  index: -1
+guang_04
+  rotate: true
+  xy: 2, 4
+  size: 75, 82
+  orig: 84, 94
+  offset: 5, 6
+  index: -1
+guang_05
+  rotate: false
+  xy: 496, 2
+  size: 86, 92
+  orig: 95, 103
+  offset: 5, 4
+  index: -1
+guang_06
+  rotate: false
+  xy: 734, 7
+  size: 133, 91
+  orig: 143, 99
+  offset: 5, 4
+  index: -1
+guang_07
+  rotate: true
+  xy: 2, 81
+  size: 173, 94
+  orig: 182, 100
+  offset: 4, 3
+  index: -1
+guang_08
+  rotate: true
+  xy: 98, 81
+  size: 173, 94
+  orig: 182, 100
+  offset: 4, 3
+  index: -1
+guang_09
+  rotate: true
+  xy: 194, 82
+  size: 172, 92
+  orig: 182, 100
+  offset: 4, 4
+  index: -1
+guang_10
+  rotate: true
+  xy: 288, 83
+  size: 171, 92
+  orig: 182, 100
+  offset: 4, 4
+  index: -1
+guang_11
+  rotate: true
+  xy: 382, 88
+  size: 166, 92
+  orig: 179, 100
+  offset: 4, 4
+  index: -1
+guang_12
+  rotate: true
+  xy: 476, 96
+  size: 158, 92
+  orig: 170, 99
+  offset: 4, 3
+  index: -1
+guang_13
+  rotate: false
+  xy: 584, 4
+  size: 148, 91
+  orig: 158, 99
+  offset: 5, 4
+  index: -1
+guang_14
+  rotate: false
+  xy: 951, 20
+  size: 131, 88
+  orig: 143, 98
+  offset: 5, 5
+  index: -1
+guang_15
+  rotate: true
+  xy: 869, 5
+  size: 99, 80
+  orig: 116, 94
+  offset: 7, 7
+  index: -1
+qi_05
+  rotate: false
+  xy: 1235, 2
+  size: 64, 80
+  orig: 83, 84
+  offset: 2, 0
+  index: -1
+qi_06
+  rotate: false
+  xy: 1145, 170
+  size: 81, 84
+  orig: 83, 84
+  offset: 1, 0
+  index: -1
+qi_07
+  rotate: false
+  xy: 1149, 84
+  size: 81, 84
+  orig: 83, 84
+  offset: 1, 0
+  index: -1
+qi_08
+  rotate: false
+  xy: 412, 2
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+qi_09
+  rotate: true
+  xy: 1149, 2
+  size: 80, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+qi_10
+  rotate: false
+  xy: 1228, 170
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+qi_11
+  rotate: true
+  xy: 1301, 3
+  size: 79, 84
+  orig: 81, 84
+  offset: 1, 0
+  index: -1
+qi_12
+  rotate: false
+  xy: 1232, 84
+  size: 80, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+qi_13
+  rotate: false
+  xy: 1311, 170
+  size: 80, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+qi_14
+  rotate: false
+  xy: 1314, 84
+  size: 79, 84
+  orig: 81, 84
+  offset: 1, 0
+  index: -1
+qi_15
+  rotate: true
+  xy: 1387, 3
+  size: 79, 82
+  orig: 81, 83
+  offset: 1, 0
+  index: -1
+丰田
+  rotate: true
+  xy: 1084, 3
+  size: 123, 63
+  orig: 127, 65
+  offset: 2, 2
+  index: -1
+保时捷 拷贝
+  rotate: true
+  xy: 765, 104
+  size: 150, 59
+  orig: 151, 60
+  offset: 0, 1
+  index: -1
+兰博基尼 拷贝
+  rotate: true
+  xy: 638, 98
+  size: 156, 65
+  orig: 158, 66
+  offset: 1, 1
+  index: -1
+大众
+  rotate: true
+  xy: 1084, 128
+  size: 126, 59
+  orig: 127, 60
+  offset: 0, 1
+  index: -1
+奔驰 拷贝
+  rotate: true
+  xy: 962, 115
+  size: 139, 57
+  orig: 139, 57
+  offset: 0, 0
+  index: -1
+奥迪
+  rotate: true
+  xy: 1021, 121
+  size: 133, 61
+  orig: 136, 63
+  offset: 2, 2
+  index: -1
+宝马 拷贝
+  rotate: false
+  xy: 153, 7
+  size: 127, 72
+  orig: 132, 74
+  offset: 0, 2
+  index: -1
+捷豹
+  rotate: true
+  xy: 826, 106
+  size: 148, 64
+  orig: 148, 64
+  offset: 0, 0
+  index: -1
+法拉利 拷贝
+  rotate: true
+  xy: 570, 97
+  size: 157, 66
+  orig: 162, 69
+  offset: 2, 3
+  index: -1
+玛莎拉蒂
+  rotate: true
+  xy: 705, 100
+  size: 154, 58
+  orig: 156, 59
+  offset: 1, 1
+  index: -1
+路虎
+  rotate: false
+  xy: 282, 10
+  size: 128, 70
+  orig: 128, 70
+  offset: 0, 0
+  index: -1
+雷克萨斯 拷贝
+  rotate: true
+  xy: 892, 110
+  size: 144, 68
+  orig: 149, 70
+  offset: 2, 2
+  index: -1

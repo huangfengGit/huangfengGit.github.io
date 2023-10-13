@@ -1,0 +1,48 @@
+
+xiazhu.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bj_db
+  rotate: false
+  xy: 2, 70
+  size: 128, 130
+  orig: 130, 132
+  offset: 1, 1
+  index: -1
+fudai_hou
+  rotate: false
+  xy: 2, 2
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1
+fudai_qian
+  rotate: false
+  xy: 97, 27
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 132, 155
+  size: 44, 45
+  orig: 49, 48
+  offset: 2, 2
+  index: -1
+guangxiao
+  rotate: true
+  xy: 132, 110
+  size: 43, 44
+  orig: 48, 49
+  offset: 3, 3
+  index: -1
+jinbi
+  rotate: false
+  xy: 132, 79
+  size: 38, 29
+  orig: 40, 31
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,118 @@
+
+spine_ui_button_01.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button1_01
+  rotate: true
+  xy: 234, 3
+  size: 250, 52
+  orig: 250, 52
+  offset: 0, 0
+  index: -1
+button1_02
+  rotate: true
+  xy: 288, 3
+  size: 250, 52
+  orig: 250, 52
+  offset: 0, 0
+  index: -1
+button1_03
+  rotate: true
+  xy: 342, 3
+  size: 250, 52
+  orig: 250, 52
+  offset: 0, 0
+  index: -1
+button1_04
+  rotate: true
+  xy: 396, 3
+  size: 250, 52
+  orig: 250, 52
+  offset: 0, 0
+  index: -1
+button1_05
+  rotate: true
+  xy: 450, 3
+  size: 250, 52
+  orig: 250, 52
+  offset: 0, 0
+  index: -1
+button1_06
+  rotate: true
+  xy: 504, 3
+  size: 250, 52
+  orig: 250, 52
+  offset: 0, 0
+  index: -1
+button1_07
+  rotate: true
+  xy: 558, 3
+  size: 250, 52
+  orig: 250, 52
+  offset: 0, 0
+  index: -1
+button1_08
+  rotate: true
+  xy: 612, 3
+  size: 250, 52
+  orig: 250, 52
+  offset: 0, 0
+  index: -1
+button1_09
+  rotate: true
+  xy: 666, 3
+  size: 250, 52
+  orig: 250, 52
+  offset: 0, 0
+  index: -1
+button1_10
+  rotate: true
+  xy: 720, 3
+  size: 250, 52
+  orig: 250, 52
+  offset: 0, 0
+  index: -1
+button1_11
+  rotate: true
+  xy: 774, 3
+  size: 250, 52
+  orig: 250, 52
+  offset: 0, 0
+  index: -1
+button1_12
+  rotate: true
+  xy: 828, 3
+  size: 250, 52
+  orig: 250, 52
+  offset: 0, 0
+  index: -1
+button1_13
+  rotate: true
+  xy: 882, 3
+  size: 250, 52
+  orig: 250, 52
+  offset: 0, 0
+  index: -1
+button1_14
+  rotate: true
+  xy: 936, 3
+  size: 250, 52
+  orig: 250, 52
+  offset: 0, 0
+  index: -1
+button_01
+  rotate: true
+  xy: 179, 2
+  size: 251, 53
+  orig: 251, 54
+  offset: 0, 1
+  index: -1
+gold
+  rotate: false
+  xy: 2, 11
+  size: 175, 242
+  orig: 175, 242
+  offset: 0, 0
+  index: -1

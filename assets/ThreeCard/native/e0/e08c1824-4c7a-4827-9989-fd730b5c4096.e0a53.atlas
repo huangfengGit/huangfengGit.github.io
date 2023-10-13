@@ -1,0 +1,41 @@
+
+bipai.png
+size: 708, 992
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bp_guang1
+  rotate: true
+  xy: 132, 42
+  size: 362, 453
+  orig: 382, 507
+  offset: 13, 23
+  index: -1
+bp_guang_4
+  rotate: true
+  xy: 132, 406
+  size: 584, 567
+  orig: 658, 664
+  offset: 39, 50
+  index: -1
+bp_s
+  rotate: false
+  xy: 587, 171
+  size: 96, 107
+  orig: 100, 110
+  offset: 2, 2
+  index: -1
+bp_v
+  rotate: true
+  xy: 587, 280
+  size: 124, 119
+  orig: 127, 123
+  offset: 1, 3
+  index: -1
+liuguang_1
+  rotate: true
+  xy: 2, 2
+  size: 988, 128
+  orig: 1008, 130
+  offset: 18, 1
+  index: -1

@@ -1,0 +1,48 @@
+
+nitu.png
+size: 256, 64
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+nitu_1
+  rotate: false
+  xy: 131, 9
+  size: 30, 15
+  orig: 32, 17
+  offset: 1, 1
+  index: -1
+nitu_2
+  rotate: true
+  xy: 113, 26
+  size: 30, 18
+  orig: 31, 19
+  offset: 1, 1
+  index: -1
+nitu_chuanzi
+  rotate: true
+  xy: 83, 7
+  size: 49, 28
+  orig: 50, 29
+  offset: 0, 1
+  index: -1
+nitu_chuanzi_tu
+  rotate: true
+  xy: 113, 5
+  size: 19, 16
+  orig: 21, 17
+  offset: 2, 1
+  index: -1
+nitu_wan
+  rotate: false
+  xy: 2, 2
+  size: 79, 54
+  orig: 79, 57
+  offset: 0, 3
+  index: -1
+nitu_wan_tu
+  rotate: false
+  xy: 133, 27
+  size: 64, 29
+  orig: 64, 33
+  offset: 0, 4
+  index: -1

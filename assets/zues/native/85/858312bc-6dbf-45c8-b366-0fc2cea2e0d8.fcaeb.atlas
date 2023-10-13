@@ -1,0 +1,13 @@
+
+spine_zues_chess_bg2_up.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_zues_chess_bg2=1
+  rotate: false
+  xy: 2, 2
+  size: 597, 247
+  orig: 599, 247
+  offset: 1, 0
+  index: -1

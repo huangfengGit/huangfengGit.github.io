@@ -1,0 +1,105 @@
+
+zhongjiangdonghua.png
+size: 128, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images2/00000
+  rotate: false
+  xy: 2, 187
+  size: 44, 43
+  orig: 50, 50
+  offset: 3, 4
+  index: -1
+images2/00001
+  rotate: false
+  xy: 48, 186
+  size: 44, 43
+  orig: 50, 50
+  offset: 3, 4
+  index: -1
+images2/00002
+  rotate: false
+  xy: 2, 142
+  size: 44, 43
+  orig: 50, 50
+  offset: 3, 4
+  index: -1
+images2/00003
+  rotate: false
+  xy: 48, 141
+  size: 44, 43
+  orig: 50, 50
+  offset: 3, 4
+  index: -1
+images2/00004
+  rotate: false
+  xy: 2, 232
+  size: 44, 41
+  orig: 50, 50
+  offset: 3, 5
+  index: -1
+images2/00005
+  rotate: false
+  xy: 2, 275
+  size: 44, 39
+  orig: 50, 50
+  offset: 3, 6
+  index: -1
+images2/00006
+  rotate: false
+  xy: 48, 274
+  size: 44, 40
+  orig: 50, 50
+  offset: 3, 5
+  index: -1
+images2/00007
+  rotate: false
+  xy: 48, 231
+  size: 44, 41
+  orig: 50, 50
+  offset: 3, 5
+  index: -1
+images2/00008
+  rotate: false
+  xy: 2, 97
+  size: 44, 43
+  orig: 50, 50
+  offset: 3, 4
+  index: -1
+images2/00009
+  rotate: false
+  xy: 49, 49
+  size: 46, 45
+  orig: 50, 50
+  offset: 2, 3
+  index: -1
+images2/00010
+  rotate: false
+  xy: 49, 2
+  size: 46, 45
+  orig: 50, 50
+  offset: 2, 3
+  index: -1
+images2/00011
+  rotate: true
+  xy: 2, 50
+  size: 44, 45
+  orig: 50, 50
+  offset: 3, 3
+  index: -1
+images2/00012
+  rotate: true
+  xy: 48, 96
+  size: 43, 46
+  orig: 50, 50
+  offset: 4, 3
+  index: -1
+images2/00013
+  rotate: false
+  xy: 2, 3
+  size: 45, 45
+  orig: 50, 50
+  offset: 1, 3
+  index: -1
+

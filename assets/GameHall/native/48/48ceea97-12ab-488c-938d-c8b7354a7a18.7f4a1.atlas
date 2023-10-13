@@ -1,0 +1,20 @@
+
+anniu.png
+size: 512, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 2, 2
+  size: 289, 69
+  orig: 289, 69
+  offset: 0, 0
+  index: -1
+lg
+  rotate: true
+  xy: 293, 14
+  size: 57, 55
+  orig: 63, 63
+  offset: 5, 4
+  index: -1

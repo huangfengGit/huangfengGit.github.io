@@ -1,0 +1,48 @@
+
+wanjiabipai.png
+size: 244, 381
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+guang_huang
+  rotate: false
+  xy: 108, 34
+  size: 32, 103
+  orig: 32, 111
+  offset: 0, 4
+  index: -1
+guang_lv
+  rotate: false
+  xy: 142, 34
+  size: 32, 103
+  orig: 32, 111
+  offset: 0, 4
+  index: -1
+guangdian
+  rotate: false
+  xy: 176, 127
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+guangquan
+  rotate: false
+  xy: 2, 33
+  size: 104, 104
+  orig: 108, 108
+  offset: 2, 2
+  index: -1
+heisezhezhao
+  rotate: false
+  xy: 2, 139
+  size: 240, 240
+  orig: 242, 242
+  offset: 1, 1
+  index: -1
+jiantou
+  rotate: true
+  xy: 2, 2
+  size: 29, 240
+  orig: 29, 240
+  offset: 0, 0
+  index: -1

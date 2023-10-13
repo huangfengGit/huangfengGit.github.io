@@ -1,0 +1,55 @@
+
+hb_jinbi.png
+size: 2048, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+xfg_di
+  rotate: false
+  xy: 575, 209
+  size: 571, 288
+  orig: 571, 288
+  offset: 0, 0
+  index: -1
+xfg_gz
+  rotate: false
+  xy: 2, 3
+  size: 570, 187
+  orig: 570, 189
+  offset: 0, 2
+  index: -1
+xfg_gz1
+  rotate: false
+  xy: 900, 60
+  size: 236, 147
+  orig: 570, 189
+  offset: 161, 25
+  index: -1
+xfg_wfg
+  rotate: false
+  xy: 575, 26
+  size: 323, 181
+  orig: 325, 183
+  offset: 1, 1
+  index: -1
+xfk_di
+  rotate: false
+  xy: 2, 192
+  size: 571, 305
+  orig: 571, 305
+  offset: 0, 0
+  index: -1
+xfk_gz
+  rotate: false
+  xy: 1148, 216
+  size: 571, 281
+  orig: 571, 281
+  offset: 0, 0
+  index: -1
+xfk_nr
+  rotate: true
+  xy: 1721, 2
+  size: 495, 267
+  orig: 495, 267
+  offset: 0, 0
+  index: -1

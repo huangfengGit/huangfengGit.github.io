@@ -1,0 +1,62 @@
+
+free.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+free_di
+  rotate: true
+  xy: 2, 22
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+free_di_huawen
+  rotate: true
+  xy: 41, 157
+  size: 96, 79
+  orig: 98, 80
+  offset: 1, 0
+  index: -1
+free_ee
+  rotate: true
+  xy: 122, 157
+  size: 47, 33
+  orig: 93, 36
+  offset: 45, 1
+  index: -1
+free_fr
+  rotate: true
+  xy: 122, 206
+  size: 47, 34
+  orig: 93, 36
+  offset: 1, 1
+  index: -1
+free_free
+  rotate: true
+  xy: 100, 64
+  size: 91, 34
+  orig: 93, 36
+  offset: 1, 1
+  index: -1
+free_jinbi
+  rotate: true
+  xy: 136, 122
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+free_jinbi_beijing
+  rotate: true
+  xy: 2, 131
+  size: 122, 37
+  orig: 122, 38
+  offset: 0, 1
+  index: -1
+free_laoshu_zuo
+  rotate: false
+  xy: 100, 2
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1

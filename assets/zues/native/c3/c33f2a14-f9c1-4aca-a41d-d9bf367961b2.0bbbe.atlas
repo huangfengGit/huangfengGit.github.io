@@ -1,0 +1,160 @@
+
+spine_zues_chess_hebing.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_zues_chess_hebing=1
+  rotate: true
+  xy: 933, 2
+  size: 88, 46
+  orig: 88, 46
+  offset: 0, 0
+  index: -1
+spine_zues_chess_hebing=2
+  rotate: true
+  xy: 819, 45
+  size: 45, 112
+  orig: 46, 114
+  offset: 0, 1
+  index: -1
+spine_zues_chess_hebing=flash00
+  rotate: false
+  xy: 525, 58
+  size: 9, 11
+  orig: 69, 144
+  offset: 31, 133
+  index: -1
+spine_zues_chess_hebing=flash01
+  rotate: true
+  xy: 959, 111
+  size: 15, 60
+  orig: 69, 144
+  offset: 31, 84
+  index: -1
+spine_zues_chess_hebing=flash02
+  rotate: true
+  xy: 416, 50
+  size: 19, 107
+  orig: 69, 144
+  offset: 27, 35
+  index: -1
+spine_zues_chess_hebing=flash03
+  rotate: true
+  xy: 408, 28
+  size: 20, 106
+  orig: 69, 144
+  offset: 26, 35
+  index: -1
+spine_zues_chess_hebing=flash04
+  rotate: true
+  xy: 277, 42
+  size: 23, 129
+  orig: 69, 144
+  offset: 21, 4
+  index: -1
+spine_zues_chess_hebing=flash05
+  rotate: true
+  xy: 557, 74
+  size: 19, 131
+  orig: 69, 144
+  offset: 25, 4
+  index: -1
+spine_zues_chess_hebing=flash06
+  rotate: true
+  xy: 280, 67
+  size: 17, 134
+  orig: 69, 144
+  offset: 24, 6
+  index: -1
+spine_zues_chess_hebing=flash07
+  rotate: true
+  xy: 416, 71
+  size: 17, 139
+  orig: 69, 144
+  offset: 25, 5
+  index: -1
+spine_zues_chess_hebing=flash08
+  rotate: true
+  xy: 140, 10
+  size: 19, 136
+  orig: 69, 144
+  offset: 26, 5
+  index: -1
+spine_zues_chess_hebing=flash09
+  rotate: true
+  xy: 140, 31
+  size: 42, 135
+  orig: 69, 144
+  offset: 6, 5
+  index: -1
+spine_zues_chess_hebing=flash10
+  rotate: true
+  xy: 690, 53
+  size: 38, 127
+  orig: 69, 144
+  offset: 18, 8
+  index: -1
+spine_zues_chess_hebing=flash11
+  rotate: true
+  xy: 278, 2
+  size: 38, 128
+  orig: 69, 144
+  offset: 19, 7
+  index: -1
+spine_zues_chess_hebing=flash12
+  rotate: true
+  xy: 140, 75
+  size: 51, 138
+  orig: 69, 144
+  offset: 13, 4
+  index: -1
+spine_zues_chess_hebing=flash13
+  rotate: true
+  xy: 2, 62
+  size: 64, 136
+  orig: 69, 144
+  offset: 3, 4
+  index: -1
+spine_zues_chess_hebing=flash14
+  rotate: true
+  xy: 2, 5
+  size: 55, 136
+  orig: 69, 144
+  offset: 0, 5
+  index: -1
+spine_zues_chess_hebing=flash15
+  rotate: true
+  xy: 416, 90
+  size: 36, 134
+  orig: 69, 144
+  offset: 7, 6
+  index: -1
+spine_zues_chess_hebing=flash16
+  rotate: true
+  xy: 280, 86
+  size: 40, 134
+  orig: 69, 144
+  offset: 4, 5
+  index: -1
+spine_zues_chess_hebing=flash17
+  rotate: true
+  xy: 690, 93
+  size: 33, 133
+  orig: 69, 144
+  offset: 11, 5
+  index: -1
+spine_zues_chess_hebing=flash18
+  rotate: true
+  xy: 552, 95
+  size: 31, 136
+  orig: 69, 144
+  offset: 15, 6
+  index: -1
+spine_zues_chess_hebing=flash19
+  rotate: true
+  xy: 825, 92
+  size: 34, 132
+  orig: 69, 144
+  offset: 8, 5
+  index: -1

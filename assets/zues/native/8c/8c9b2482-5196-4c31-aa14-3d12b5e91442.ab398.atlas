@@ -1,0 +1,34 @@
+
+spine_ui_function_superwin_down.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_ui_function_bigwin=super_light_01
+  rotate: false
+  xy: 2, 28
+  size: 406, 462
+  orig: 420, 471
+  offset: 8, 6
+  index: -1
+spine_ui_function_bigwin=super_light_02
+  rotate: true
+  xy: 410, 82
+  size: 408, 277
+  orig: 413, 282
+  offset: 0, 5
+  index: -1
+spine_ui_function_bigwin=super_light_04
+  rotate: true
+  xy: 689, 2
+  size: 234, 126
+  orig: 234, 126
+  offset: 0, 0
+  index: -1
+spine_ui_function_bigwin=super_light_06
+  rotate: true
+  xy: 689, 238
+  size: 252, 266
+  orig: 260, 270
+  offset: 3, 3
+  index: -1

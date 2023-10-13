@@ -1,0 +1,27 @@
+
+a.png
+size: 428, 174
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+A_di
+  rotate: false
+  xy: 2, 2
+  size: 169, 170
+  orig: 171, 172
+  offset: 1, 1
+  index: -1
+a_guang
+  rotate: true
+  xy: 173, 3
+  size: 169, 163
+  orig: 171, 165
+  offset: 1, 1
+  index: -1
+liuguang
+  rotate: false
+  xy: 338, 2
+  size: 88, 170
+  orig: 90, 170
+  offset: 2, 0
+  index: -1

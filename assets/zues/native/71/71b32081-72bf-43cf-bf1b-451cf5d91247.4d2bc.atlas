@@ -1,0 +1,76 @@
+
+spine_zues_chess_5_up.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_zues_chess_5=1
+  rotate: true
+  xy: 207, 58
+  size: 4, 101
+  orig: 4, 101
+  offset: 0, 0
+  index: -1
+spine_zues_chess_5=10
+  rotate: true
+  xy: 2, 2
+  size: 60, 77
+  orig: 60, 77
+  offset: 0, 0
+  index: -1
+spine_zues_chess_5=2
+  rotate: false
+  xy: 81, 58
+  size: 124, 4
+  orig: 124, 4
+  offset: 0, 0
+  index: -1
+spine_zues_chess_5=3
+  rotate: true
+  xy: 156, 52
+  size: 4, 101
+  orig: 4, 101
+  offset: 0, 0
+  index: -1
+spine_zues_chess_5=4
+  rotate: false
+  xy: 350, 50
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+spine_zues_chess_5=6
+  rotate: false
+  xy: 81, 12
+  size: 73, 44
+  orig: 73, 45
+  offset: 0, 1
+  index: -1
+spine_zues_chess_5=7
+  rotate: false
+  xy: 156, 8
+  size: 56, 42
+  orig: 56, 43
+  offset: 0, 1
+  index: -1
+spine_zues_chess_5=8
+  rotate: true
+  xy: 380, 46
+  size: 16, 20
+  orig: 17, 22
+  offset: 1, 1
+  index: -1
+spine_zues_chess_5=9
+  rotate: false
+  xy: 310, 52
+  size: 38, 10
+  orig: 38, 10
+  offset: 0, 0
+  index: -1
+spine_zues_chess_5=star
+  rotate: false
+  xy: 214, 11
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1

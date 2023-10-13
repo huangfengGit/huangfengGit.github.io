@@ -1,0 +1,48 @@
+
+jiao.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+diaozhui
+  rotate: true
+  xy: 863, 150
+  size: 47, 73
+  orig: 48, 73
+  offset: 1, 0
+  index: -1
+guang
+  rotate: false
+  xy: 588, 25
+  size: 271, 47
+  orig: 276, 52
+  offset: 3, 4
+  index: -1
+jiaodi
+  rotate: false
+  xy: 282, 58
+  size: 304, 139
+  orig: 304, 139
+  offset: 0, 0
+  index: -1
+jiaohuan
+  rotate: false
+  xy: 861, 40
+  size: 89, 32
+  orig: 90, 41
+  offset: 0, 4
+  index: -1
+jiaotui
+  rotate: true
+  xy: 588, 74
+  size: 123, 273
+  orig: 188, 287
+  offset: 24, 14
+  index: -1
+yan
+  rotate: false
+  xy: 2, 2
+  size: 278, 195
+  orig: 351, 248
+  offset: 26, 33
+  index: -1

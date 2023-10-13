@@ -1,0 +1,34 @@
+
+nan.png
+size: 512, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 2
+  size: 110, 110
+  orig: 116, 116
+  offset: 3, 3
+  index: -1
+guang
+  rotate: true
+  xy: 284, 30
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 201, 31
+  size: 81, 81
+  orig: 91, 91
+  offset: 5, 5
+  index: -1
+nan
+  rotate: false
+  xy: 114, 2
+  size: 85, 110
+  orig: 89, 110
+  offset: 1, 0
+  index: -1

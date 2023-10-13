@@ -1,0 +1,97 @@
+
+spine_zues_chess_wild_1_up.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_zues_chess_wild=1_2
+  rotate: false
+  xy: 2, 24
+  size: 126, 102
+  orig: 126, 102
+  offset: 0, 0
+  index: -1
+spine_zues_chess_wild=2
+  rotate: false
+  xy: 382, 57
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+spine_zues_chess_wild=3
+  rotate: true
+  xy: 52, 2
+  size: 20, 14
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+spine_zues_chess_wild=4
+  rotate: false
+  xy: 266, 30
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+spine_zues_chess_wild=6
+  rotate: false
+  xy: 266, 42
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+spine_zues_chess_wild=7
+  rotate: false
+  xy: 130, 28
+  size: 66, 98
+  orig: 66, 98
+  offset: 0, 0
+  index: -1
+spine_zues_chess_wild=7_1
+  rotate: false
+  xy: 198, 29
+  size: 66, 97
+  orig: 66, 98
+  offset: 0, 1
+  index: -1
+spine_zues_chess_wild=8
+  rotate: false
+  xy: 266, 73
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+spine_zues_chess_wild=8_1
+  rotate: false
+  xy: 341, 73
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+spine_zues_chess_wild=a1
+  rotate: false
+  xy: 416, 78
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+spine_zues_chess_wild=a2
+  rotate: true
+  xy: 2, 8
+  size: 14, 48
+  orig: 14, 48
+  offset: 0, 0
+  index: -1
+spine_zues_chess_wild=a3
+  rotate: true
+  xy: 333, 45
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+spine_zues_chess_wild=a4
+  rotate: false
+  xy: 468, 78
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1

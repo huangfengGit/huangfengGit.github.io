@@ -1,0 +1,34 @@
+
+qiu.png
+size: 512, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bolizhao
+  rotate: false
+  xy: 154, 23
+  size: 58, 58
+  orig: 59, 58
+  offset: 1, 0
+  index: -1
+ditu
+  rotate: false
+  xy: 81, 9
+  size: 71, 72
+  orig: 85, 86
+  offset: 7, 7
+  index: -1
+guang
+  rotate: false
+  xy: 2, 2
+  size: 77, 79
+  orig: 90, 90
+  offset: 8, 7
+  index: -1
+yanwu
+  rotate: true
+  xy: 2, 83
+  size: 136, 292
+  orig: 142, 300
+  offset: 2, 4
+  index: -1

@@ -1,0 +1,118 @@
+
+baozha.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+crash
+  rotate: false
+  xy: 2, 31
+  size: 183, 82
+  orig: 185, 84
+  offset: 1, 2
+  index: -1
+爆炸/bz_1
+  rotate: false
+  xy: 187, 3
+  size: 110, 111
+  orig: 150, 150
+  offset: 19, 17
+  index: -1
+爆炸/bz_10
+  rotate: true
+  xy: 263, 120
+  size: 133, 128
+  orig: 150, 150
+  offset: 6, 9
+  index: -1
+爆炸/bz_11
+  rotate: false
+  xy: 415, 2
+  size: 131, 125
+  orig: 150, 150
+  offset: 8, 9
+  index: -1
+爆炸/bz_12
+  rotate: true
+  xy: 799, 9
+  size: 120, 118
+  orig: 150, 150
+  offset: 12, 16
+  index: -1
+爆炸/bz_13
+  rotate: true
+  xy: 299, 3
+  size: 115, 114
+  orig: 150, 150
+  offset: 18, 17
+  index: -1
+爆炸/bz_14
+  rotate: false
+  xy: 909, 150
+  size: 110, 103
+  orig: 150, 150
+  offset: 23, 22
+  index: -1
+爆炸/bz_15
+  rotate: true
+  xy: 919, 43
+  size: 105, 83
+  orig: 150, 150
+  offset: 18, 27
+  index: -1
+爆炸/bz_2
+  rotate: true
+  xy: 659, 131
+  size: 122, 123
+  orig: 150, 150
+  offset: 13, 11
+  index: -1
+爆炸/bz_3
+  rotate: false
+  xy: 548, 5
+  size: 124, 124
+  orig: 150, 150
+  offset: 12, 11
+  index: -1
+爆炸/bz_4
+  rotate: false
+  xy: 674, 6
+  size: 123, 123
+  orig: 150, 150
+  offset: 13, 11
+  index: -1
+爆炸/bz_5
+  rotate: true
+  xy: 784, 131
+  size: 122, 123
+  orig: 150, 150
+  offset: 15, 14
+  index: -1
+爆炸/bz_6
+  rotate: false
+  xy: 529, 131
+  size: 128, 122
+  orig: 150, 150
+  offset: 13, 17
+  index: -1
+爆炸/bz_7
+  rotate: false
+  xy: 393, 129
+  size: 134, 124
+  orig: 150, 150
+  offset: 10, 16
+  index: -1
+爆炸/bz_8
+  rotate: true
+  xy: 133, 116
+  size: 137, 128
+  orig: 150, 150
+  offset: 8, 11
+  index: -1
+爆炸/bz_9
+  rotate: true
+  xy: 2, 115
+  size: 138, 129
+  orig: 150, 150
+  offset: 7, 9
+  index: -1

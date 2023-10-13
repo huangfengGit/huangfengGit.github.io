@@ -1,0 +1,62 @@
+
+spine_zues_chess_6_up.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_zues_chess_6=0
+  rotate: false
+  xy: 74, 25
+  size: 5, 101
+  orig: 5, 101
+  offset: 0, 0
+  index: -1
+spine_zues_chess_6=00
+  rotate: false
+  xy: 87, 25
+  size: 4, 101
+  orig: 4, 101
+  offset: 0, 0
+  index: -1
+spine_zues_chess_6=000
+  rotate: true
+  xy: 81, 2
+  size: 124, 4
+  orig: 124, 4
+  offset: 0, 0
+  index: -1
+spine_zues_chess_6=4
+  rotate: true
+  xy: 93, 81
+  size: 45, 12
+  orig: 45, 12
+  offset: 0, 0
+  index: -1
+spine_zues_chess_6=5
+  rotate: false
+  xy: 2, 59
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+spine_zues_chess_6=6
+  rotate: true
+  xy: 61, 45
+  size: 12, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+spine_zues_chess_6=7_1
+  rotate: true
+  xy: 2, 6
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+spine_zues_chess_6=flash
+  rotate: false
+  xy: 107, 109
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1

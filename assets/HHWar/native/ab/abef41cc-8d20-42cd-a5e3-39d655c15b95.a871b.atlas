@@ -1,0 +1,27 @@
+
+vs1.png
+size: 512, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 234, 55
+  size: 51, 51
+  orig: 59, 54
+  offset: 4, 3
+  index: -1
+hong
+  rotate: false
+  xy: 119, 2
+  size: 113, 104
+  orig: 121, 118
+  offset: 8, 8
+  index: -1
+lan
+  rotate: false
+  xy: 2, 2
+  size: 115, 104
+  orig: 123, 118
+  offset: 0, 8
+  index: -1

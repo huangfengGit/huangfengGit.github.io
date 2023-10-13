@@ -1,0 +1,20 @@
+
+spine_zues_chess_7_up1.png
+size: 64,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_zues_chess_7=1_1
+  rotate: false
+  xy: 2, 134
+  size: 47, 176
+  orig: 47, 176
+  offset: 0, 0
+  index: -1
+spine_zues_chess_7=1_2
+  rotate: false
+  xy: 2, 2
+  size: 53, 130
+  orig: 94, 229
+  offset: 21, 85
+  index: -1

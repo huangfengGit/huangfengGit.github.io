@@ -1,0 +1,27 @@
+
+q.png
+size: 256, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Q
+  rotate: false
+  xy: 2, 2
+  size: 77, 86
+  orig: 77, 86
+  offset: 0, 0
+  index: -1
+liuguang
+  rotate: false
+  xy: 81, 3
+  size: 44, 85
+  orig: 45, 85
+  offset: 1, 0
+  index: -1
+q_guang
+  rotate: false
+  xy: 127, 5
+  size: 74, 83
+  orig: 75, 83
+  offset: 1, 0
+  index: -1

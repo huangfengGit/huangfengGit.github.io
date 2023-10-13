@@ -1,0 +1,20 @@
+
+spine_ui_function_bigwin_down.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_ui_function_bigwin=big_light_01
+  rotate: false
+  xy: 2, 2
+  size: 408, 460
+  orig: 420, 471
+  offset: 6, 7
+  index: -1
+spine_ui_function_bigwin=big_light_02
+  rotate: false
+  xy: 412, 185
+  size: 407, 277
+  orig: 413, 282
+  offset: 0, 5
+  index: -1
