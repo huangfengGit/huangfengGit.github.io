@@ -1,0 +1,20 @@
+
+bg_yanwu.png
+size: 845,726
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi_1
+  rotate: false
+  xy: 2, 390
+  size: 841, 334
+  orig: 841, 334
+  offset: 0, 0
+  index: -1
+wuqi_2
+  rotate: false
+  xy: 2, 2
+  size: 753, 386
+  orig: 753, 386
+  offset: 0, 0
+  index: -1

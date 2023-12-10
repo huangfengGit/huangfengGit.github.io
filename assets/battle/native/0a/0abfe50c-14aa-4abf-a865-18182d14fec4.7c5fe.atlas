@@ -1,0 +1,76 @@
+
+dianliu.png
+size: 551,181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dl_1
+  rotate: false
+  xy: 226, 9
+  size: 127, 88
+  orig: 139, 100
+  offset: 9, 11
+  index: -1
+tx/dl_10
+  rotate: false
+  xy: 307, 99
+  size: 130, 80
+  orig: 139, 100
+  offset: 6, 15
+  index: -1
+tx/dl_2
+  rotate: true
+  xy: 213, 99
+  size: 80, 92
+  orig: 139, 100
+  offset: 14, 4
+  index: -1
+tx/dl_3
+  rotate: true
+  xy: 355, 4
+  size: 91, 97
+  orig: 139, 100
+  offset: 12, 0
+  index: -1
+tx/dl_4
+  rotate: true
+  xy: 454, 2
+  size: 93, 95
+  orig: 139, 100
+  offset: 22, 1
+  index: -1
+tx/dl_5
+  rotate: true
+  xy: 439, 97
+  size: 82, 96
+  orig: 139, 100
+  offset: 33, 1
+  index: -1
+tx/dl_6
+  rotate: true
+  xy: 133, 10
+  size: 87, 91
+  orig: 139, 100
+  offset: 40, 5
+  index: -1
+tx/dl_7
+  rotate: true
+  xy: 2, 114
+  size: 65, 83
+  orig: 139, 100
+  offset: 62, 4
+  index: -1
+tx/dl_8
+  rotate: false
+  xy: 2, 13
+  size: 129, 86
+  orig: 139, 100
+  offset: 4, 8
+  index: -1
+tx/dl_9
+  rotate: false
+  xy: 87, 101
+  size: 124, 78
+  orig: 139, 100
+  offset: 8, 14
+  index: -1

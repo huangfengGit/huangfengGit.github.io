@@ -1,0 +1,20 @@
+
+wuqi_lg.png
+size: 326,23
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 4B
+  rotate: false
+  xy: 209, 8
+  size: 115, 13
+  orig: 121, 13
+  offset: 4, 0
+  index: -1
+suduxian4 copy
+  rotate: false
+  xy: 2, 2
+  size: 205, 19
+  orig: 213, 26
+  offset: 6, 2
+  index: -1
