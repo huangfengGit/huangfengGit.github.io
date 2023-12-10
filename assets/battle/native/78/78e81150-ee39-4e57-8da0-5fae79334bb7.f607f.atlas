@@ -1,0 +1,83 @@
+
+bg_cao_1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_cao1_1
+  rotate: false
+  xy: 263, 3
+  size: 94, 100
+  orig: 98, 102
+  offset: 2, 1
+  index: -1
+bg_cao1_10
+  rotate: true
+  xy: 395, 118
+  size: 135, 63
+  orig: 138, 67
+  offset: 1, 2
+  index: -1
+bg_cao1_11
+  rotate: false
+  xy: 2, 5
+  size: 145, 66
+  orig: 151, 73
+  offset: 3, 5
+  index: -1
+bg_cao1_2
+  rotate: true
+  xy: 149, 11
+  size: 74, 112
+  orig: 77, 115
+  offset: 2, 1
+  index: -1
+bg_cao1_3
+  rotate: true
+  xy: 480, 2
+  size: 116, 95
+  orig: 118, 98
+  offset: 1, 1
+  index: -1
+bg_cao1_4
+  rotate: true
+  xy: 263, 105
+  size: 148, 130
+  orig: 167, 140
+  offset: 17, 9
+  index: -1
+bg_cao1_5
+  rotate: true
+  xy: 2, 73
+  size: 180, 123
+  orig: 190, 127
+  offset: 3, 2
+  index: -1
+bg_cao1_6
+  rotate: false
+  xy: 460, 120
+  size: 110, 133
+  orig: 113, 136
+  offset: 1, 2
+  index: -1
+bg_cao1_7
+  rotate: false
+  xy: 359, 4
+  size: 119, 99
+  orig: 122, 102
+  offset: 2, 1
+  index: -1
+bg_cao1_8
+  rotate: true
+  xy: 572, 127
+  size: 126, 105
+  orig: 129, 108
+  offset: 1, 1
+  index: -1
+bg_cao1_9
+  rotate: false
+  xy: 127, 87
+  size: 134, 166
+  orig: 139, 171
+  offset: 2, 3
+  index: -1

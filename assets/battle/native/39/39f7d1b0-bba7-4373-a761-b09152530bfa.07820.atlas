@@ -1,0 +1,27 @@
+
+diaoluo.png
+size: 272,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoju
+  rotate: false
+  xy: 2, 59
+  size: 190, 211
+  orig: 191, 212
+  offset: 1, 1
+  index: -1
+jinbi
+  rotate: false
+  xy: 2, 2
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 75, 4
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1

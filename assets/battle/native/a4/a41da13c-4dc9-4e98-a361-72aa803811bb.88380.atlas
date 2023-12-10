@@ -1,0 +1,20 @@
+
+ui_dianlan.png
+size: 203,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianlan_1
+  rotate: false
+  xy: 2, 38
+  size: 199, 75
+  orig: 199, 75
+  offset: 0, 0
+  index: -1
+dianlan_2
+  rotate: false
+  xy: 2, 2
+  size: 140, 34
+  orig: 140, 34
+  offset: 0, 0
+  index: -1
